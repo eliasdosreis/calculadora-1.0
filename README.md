@@ -12,7 +12,8 @@ Projeto criação de uma calculadora em Html CSS e JavaScript
 - [x] Criação script.js
 - [x] Criando logica da calculadora javascript
 ### Calculadora 1.0
-<img width="500" height="300" alt="image" src="https://github.com/eliasdosreis/calculadora-1.0/blob/a4fdba514fd5a7d00fa771d7303f62c6b3a327b4/calc_02.gif"   autoplay  />
+
+<img width="500" alt="Calculadora Anime" src="https://github.com/eliasdosreis/calculadora-1.0/blob/a4fdba514fd5a7d00fa771d7303f62c6b3a327b4/calc_02.gif?raw=true">
 
 ## HTML
 ```HTML
