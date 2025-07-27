@@ -3,6 +3,8 @@
 [ Visite Linkedin ](https://www.linkedin.com/in/eliasdosreislima/)
 
 Projeto criação de uma calculadora em Html CSS e JavaScript
+
+### 📋 Tarefas Pendentes
 - [x] Criaçao index.html
 - [x] Criando conteudo HTML para calculadora
 - [x] Criaçao style.css
